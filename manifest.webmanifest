@@ -1,0 +1,17 @@
+{
+  "name": "Moje finance",
+  "short_name": "Finance 💜",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f4ff",
+  "theme_color": "#7955dc",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
